@@ -1,2 +1,2 @@
 # Portfolio-AnalyzeDataWithPython
- import a CSV file, and study it
+Import a CSV file, and store the column into variables, then compare the data.
