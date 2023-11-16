@@ -1,2 +1,2 @@
 # Portfolio-AnalyzeDataWithPython
-Import a CSV file, and store the column into variables, then compare the data.
+Titanic dataset, from Kaggle. Analysis of data, using python, matplotlib, seaborn, and scipy
